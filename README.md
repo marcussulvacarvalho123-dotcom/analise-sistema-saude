@@ -5,7 +5,7 @@ Este documento especifica os requisitos funcionais e nao funcionais do modulo de
 
 ##2. Requisitos Funcionais (RF) 
 -[] RF1: O paciente deve conseguir visualizar os horários disponíveis de cada médico.
--[] RF2: o siatema deve permitir o agendamentode consultas e confirmação por e-mail.
+-[] RF2: o sistema deve permitir o agendamentode consultas e confirmação por e-mail.
 -[] RF3: o médicp deve visualizar sua agenda diária e semanal.
 
 ##3. Requisitos não funcionais (RNF)
